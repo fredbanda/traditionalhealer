@@ -19,7 +19,7 @@ const InfoSection = () => {
           <div className="lg:w-[50%] xs:w-full">
             <img
               className="lg:rounded-t-lg sm:rounded-sm xs:rounded-sm"
-              src="/images/image1.jpg"
+              src="/images/togo.jpeg"
               alt="billboard image"
             />
           </div>
@@ -32,8 +32,7 @@ const InfoSection = () => {
               while you only reach the closest point. Almost in life is not good
               enough, but perhaps is not always your fault. You can change your
               luck. We have dangerous world out there and traditional healing is
-              part of help. Please Note Traditional healing is not a medical
-              substitute.
+              part of help. 
             </p>
             <div className="flex mb-4">
               <div className="mr-4 font-bold mt-4">
@@ -204,7 +203,7 @@ const InfoSection = () => {
 
               <div className="relative  lg:block lg:w-1/2">
                 <img
-                  src="/images/bg_2.jpg"
+                  src="/images/kneela.jpeg"
                   className="object-cover rounded-md "
                 />
               </div>

@@ -8,7 +8,7 @@ const Services = () => {
       <div className="relative w-full h-[320px]" id="home">
         <div className="absolute inset-0 opacity-70">
           <img
-            src="/images/bg_2.jpg"
+            src="/images/goto.jpeg"
             alt="Background Image"
             className="object-cover object-center w-full h-full"
           />
@@ -39,7 +39,7 @@ const Services = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <img
-                src="/images/muthi.jpg"
+                src="/images/sang-oma.jpeg"
                 alt="wheat flour grinding"
                 className="w-full h-64 object-cover"
               />
@@ -52,7 +52,7 @@ const Services = () => {
                   the food we eat and alcohol. Premature ejaculation is a common
                   cause of relationship breakups. Its treatable please let Dr
                   Ngozo help you today and save your relationship.
-                  <Link href="https://wa.me/+2348060090000">
+                  <Link href="https://wa.me/27818693899">
                     <Button
                       variant="outline"
                       size="sm"
@@ -80,7 +80,7 @@ const Services = () => {
                   miscarriages? These things can bring down a spirit of a good
                   woman but don't let it do that. Dr Ngozo is now in South
                   Africa come talk
-                  <Link href="https://wa.me/+2348060090000">
+                  <Link href="https://wa.me/27818693899">
                     <Button
                       variant="outline"
                       size="sm"
@@ -108,7 +108,7 @@ const Services = () => {
                   me help you today and you will stop avoiding those phone
                   calls. Well everyone want to enjoy love making and if its
                   quick its like nothing.
-                  <Link href="https://wa.me/+2348060090000">
+                  <Link href="https://wa.me/27818693899">
                     <Button
                       variant="outline"
                       size="sm"
@@ -122,8 +122,8 @@ const Services = () => {
             </div>
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <img
-                src="/images/moneys.jpg"
-                alt="Coffee"
+                src="/images/fixa.jpeg"
+                alt="Money"
                 className="w-full h-64 object-cover"
               />
               <div className="p-6 text-center">
@@ -135,7 +135,7 @@ const Services = () => {
                   seen successful people with less effort but for you no matter
                   how hard you work nothing seems to work. It might not be your
                   fault so get the help you deserve from Dr Ngozo
-                  <Link href="https://wa.me/+2348060090000">
+                  <Link href="https://wa.me/27818693899">
                     <Button
                       variant="outline"
                       size="sm"
@@ -169,7 +169,7 @@ const Services = () => {
                   talisman, Love voodoo, Lungs cleansing herbs, Memory spell,
                   Mountain remedies . Poverty fighter jinni. Quranical
                   Recitation/duas/azmat/Taweez.
-                  <Link href="https://wa.me/+2348060090000">
+                  <Link href="https://wa.me/27818693899">
                     <Button
                       variant="outline"
                       size="sm"
@@ -184,13 +184,13 @@ const Services = () => {
 
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <img
-                src="/images/sangoma.jpg"
+                src="/images/cheeka.jpeg"
                 alt="papad"
                 className="w-full h-64 object-cover"
               />
               <div className="p-6 text-center">
                 <h3 className="text-xl font-medium text-gray-800 mb-2">
-                 We Make It Happen
+                 We Check Your Life
                 </h3>
                 <p className="text-gray-700 text-base">
                   Sale quick spell Sex appetizer, Skin lash herbs Skin
@@ -198,7 +198,7 @@ const Services = () => {
                   calling Spiritual ability spell Talukkalar statue Triple
                   strength charms Voodoo dolls Chick magnet ring 79 spirits
                   spell casting .
-                  <Link href="https://wa.me/+2348060090000">
+                  <Link href="https://wa.me/27818693899">
                     <Button
                       variant="outline"
                       size="sm"
@@ -342,7 +342,7 @@ const Services = () => {
 
           <div className="group relative">
             <img
-              src="images/doctor18.jpg"
+              src="images/heck.jpeg"
               alt="Image 1"
               className="aspect-[2/3] h-80 object-cover rounded-lg transition-transform transform scale-100 group-hover:scale-105"
             />
