@@ -42,7 +42,7 @@ const HeroSection = () => {
                 </div>
 
                 <div className="w-1/2 px-2">
-                  <Link href="https://wa.me/+2348154567890">
+                  <Link href="https://wa.me/27818693899">
                     <button className="w-full bg-red-500 dark:bg-gray-700 text-gray-800 dark:text-white py-2 px-4 rounded-full font-bold hover:bg-green-500 hover:text-white dark:hover:bg-gray-600">
                       Send WhatsApp Now
                       <Image
