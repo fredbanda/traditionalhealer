@@ -1,6 +1,6 @@
 const Footer = () => {
   const currentYear = new Date().getFullYear();
-  
+
   return (
     <>
       <div className="bg-slate-500 text-center">
@@ -19,7 +19,7 @@ const Footer = () => {
         <span className="block text-sm text-center text-white">
           © {currentYear} Dr Ngozo™. All Rights Reserved. Built with
           <a
-            href="https://flowbite.com"
+            href="#https://drngozo.co.za"
             className="text-purple-600 hover:underline"
           >
             {" "}TFPG Tech
