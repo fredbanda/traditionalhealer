@@ -1,5 +1,6 @@
 const Footer = () => {
   const currentYear = new Date().getFullYear();
+  
   return (
     <>
       <div className="bg-slate-500 text-center">
