@@ -4,7 +4,7 @@ const InfoSection = () => {
   return (
     <>
       <Head>
-        <title>Dr Ngozo | The Herbalist</title>
+        <title>Baba Ngozo| The Herbalist</title>
         <meta
           name="description"
           content="A good herbalist to make all your wishes come true and true happiness"

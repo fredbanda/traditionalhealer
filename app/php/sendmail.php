@@ -4,10 +4,10 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = 'From Dr Maiki Online <noreply@drmaiki.co.za>';
+$from = 'From Dr Maiki Online <noreply@babangozo.co.za>';
 
 // an email address that will receive the email with the output of the form
-$sendTo = 'From Dr Maiki Online <info@drmaiki.co.za>';
+$sendTo = 'From Dr Maiki Online <info@babangozo.co.za>';
 
 // subject of the email
 $subject = 'Another Great Enquiry';
@@ -78,5 +78,5 @@ if (!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQ
 else {
     echo $responseArray['message'];
 }
-echo "Thank You! We will confirm the appointment shortly." . " -" . "<a href='https://www.drmaiki.co.za' style='text-decoration:none;color:#ff0099;'> Return Home</a>";
+echo "Thank You! We will confirm the appointment shortly." . " -" . "<a href='https://www.babangozo.co.za>';.co.za' style='text-decoration:none;color:#ff0099;'> Return Home</a>";
 

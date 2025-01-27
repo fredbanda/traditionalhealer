@@ -122,7 +122,7 @@ const Services = () => {
             </div>
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <img
-                src="/images/fixa.jpeg"
+                src="/images/image2.jpg"
                 alt="Money"
                 className="w-full h-64 object-cover"
               />
@@ -334,7 +334,7 @@ const Services = () => {
 
           <div className="group relative">
             <img
-              src="images/doctor1.jpg"
+              src="images/image3.png"
               alt="Image 1"
               className="aspect-[2/3] h-80 object-fit rounded-lg transition-transform transform scale-100 group-hover:scale-105"
             />

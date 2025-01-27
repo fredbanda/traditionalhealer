@@ -15,8 +15,8 @@ const Navbar = () => {
               alt="Landwind Logo"
             />
             <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
-              <span className="hidden md:block">Herbalist Ngozo</span>
-              <span className="block md:hidden">Dr Ngozo</span>
+              <span className="hidden md:block">Baba Ngozo</span>
+              <span className="block md:hidden">Baba Ngozo</span>
             </span>
           </a>
           <div className="flex items-center lg:order-2">
@@ -82,7 +82,7 @@ const Navbar = () => {
 
               <li>
                 <a
-                  href="services"
+                  href="/services"
                   className="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-purple-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
                 >
                   Services

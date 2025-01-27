@@ -12,7 +12,7 @@ const Contact = () => {
                   <span className="underline text-green-500">
                     <a
                       target="_BLANK"
-                      href="https://wa.me/+2348060000000"
+                      href="https://wa.me/+27818693899"
                     >
                       WhatsApp Here
                     </a>
@@ -1023,7 +1023,7 @@ const Contact = () => {
                 ></textarea>
               </div>
               <div className="mt-8">
-                <button className="uppercase text-sm font-bold tracking-wide bg-indigo-500 text-gray-100 p-3 rounded-lg w-full focus:outline-none focus:shadow-outline">
+                <button type="submit" className="uppercase text-sm font-bold tracking-wide bg-indigo-500 text-gray-100 p-3 rounded-lg w-full focus:outline-none focus:shadow-outline">
                   Send Message
                 </button>
               </div>

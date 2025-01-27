@@ -1,15 +1,15 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { cn } from "@/lib/utils"
 import Navbar from "@/components/sections/navbar";
 import Footer from "@/components/sections/footer";
+import { GoogleAnalyticsTracking } from "@/lib/google-tag-manager";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Herbalist Ngozo",
-  description: "The powerful herbalist that is helping people around the world",
+  title: "Baba Ngozo | Traditional Healer",
+  description: "The powerful herbalist that is helping people around the world inyanga sangoma",
 };
 
 export default function RootLayout({
@@ -20,6 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body className={inter.className}>
+        <GoogleAnalyticsTracking />
         <Navbar />
         {children}
         <Footer />
