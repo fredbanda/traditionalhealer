@@ -190,7 +190,7 @@ const Services = () => {
               />
               <div className="p-6 text-center">
                 <h3 className="text-xl font-medium text-gray-800 mb-2">
-                 We Check Your Life
+                  We Check Your Life
                 </h3>
                 <p className="text-gray-700 text-base">
                   Sale quick spell Sex appetizer, Skin lash herbs Skin
